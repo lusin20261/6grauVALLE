@@ -1,0 +1,17 @@
+print("ola soi badedia");
+print("ya m olvide");
+print("JAJAJAJJAJAJ K HACES HILARIO");
+print("-----------------------------------");
+print("diferensia entre ezto y ezto");
+print(84);
+print("84");
+print(8+4);
+print("8+4");
+print("-----------------------------------");
+nombre = "valeya";
+print("ola soi "+nombre+" 676767");
+print("-----------------------------------");
+amiko = input("Escribe tu nombre plis: ");
+edad = input("Escribe tu edad plis: ");
+grado = input("Escribe tu gradw: ");
+print("ola "+amiko+" tu edad ez "+edad+" i tu grado ez "+grado+ " uwu");
